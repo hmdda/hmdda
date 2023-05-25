@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hamidreza Ahmadi
-## I'm An Iranian Programmer 
-## I'm Student of Allame Helli 6 school
+### I'm An Iranian Programmer 
+### I'm Student of Allame Helli 6 school
 - A Backend, Frontend, Python, C# Developer :)
 - 🔭 I’m currently working on ElasticOS
 - 🌱 I’m currently learning Node.js
